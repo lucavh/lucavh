@@ -1,3 +1,5 @@
+[![Social banner for lucavh](https://github.com/lucavh/lucavh/raw/master/assets/social-banner.png)](https://lucaverhees.com)
+
 ### Hi there 👋
 
 <!--
