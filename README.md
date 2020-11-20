@@ -1,4 +1,5 @@
-[![Social banner for lucavh](https://github.com/lucavh/lucavh/raw/master/assets/social-banner.png)](https://lucaverhees.com)
+
+[![Social banner for lucavh](./social-banner.png)](https://www.lucaverhees.nl)
 
 ### Hi there 👋
 
