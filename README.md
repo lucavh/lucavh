@@ -9,6 +9,8 @@
 ![](https://img.shields.io/badge/-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=6FAB88)
 ![](https://img.shields.io/badge/-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=6FAB88)
 ![](https://img.shields.io/badge/-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=6FAB88)
+![](https://img.shields.io/badge/-Grafana-informational?style=flat&logo=grafana&logoColor=white&color=6FAB88)
+![](https://img.shields.io/badge/-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=6FAB88)
 ![](https://img.shields.io/badge/-Salesforce-informational?style=flat&logo=salesforce&logoColor=white&color=6FAB88)
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6FAB88)
 ![](https://img.shields.io/badge/-Sketch-informational?style=flat&logo=sketch&logoColor=white&color=6FAB88)
