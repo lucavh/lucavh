@@ -5,7 +5,7 @@ Hi! I'm Luca Verhees, a curious data scientist who gets excited about solving co
 
 🌶 &nbsp;&nbsp;I’m currently working as a Data Scientist at [Peaks](www.peaks.com).
 
-🌱 &nbsp;&nbsp;I’m currently expanding my knowledge on mathematics for Machine Learning.
+🌱 &nbsp;&nbsp;I’m currently expanding my knowledge on mathematics for [Machine Learning](https://github.com/lucavh/ml-literature) and [lifelong learning](https://github.com/lucavh/lifelong-learning).
 
 💫 &nbsp;&nbsp;I'm passionate about the crossroads between AI and design.
 
