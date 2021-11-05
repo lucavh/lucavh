@@ -3,7 +3,7 @@
 
 Hi! I'm Luca Verhees, a curious data scientist who gets excited about solving complex real-world problems with a human-centred approach.
 
-👩‍💻 &nbsp;&nbsp;I’m currently working  I work as a Data Scientist at <a href="https://www.ns.nl/" style="color:#49AC84;">Nederlandse Spoorwegen</a>, the principal passenger railway operator in the Netherlands.
+👩‍💻 &nbsp;&nbsp;I’m currently working as a Data Scientist at <a href="https://www.ns.nl/" style="color:#49AC84;">Nederlandse Spoorwegen</a>, the principal passenger railway operator in the Netherlands.
 
 🌱 &nbsp;&nbsp;I’m currently expanding my knowledge on <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-900" style="color:#49AC84;">Azure</a> and <a href="#" style="color:#49AC84;">Python</a>.
 
