@@ -5,7 +5,7 @@ Hi! I'm Luca Verhees, a versatile data scientist who gets excited about solving 
 
 👩‍💻 &nbsp;&nbsp;I’m working as a Data Scientist at <a href="https://www.ns.nl/" style="color:#49AC84;">Nederlandse Spoorwegen</a>, the principal passenger railway operator in the Netherlands.
 
-🌱 &nbsp;&nbsp;I’m currently expanding my knowledge on <a href="https://github.com/lucavh/my-notes/blob/main/azure/DP-100-azure-data-scientist-associate.md" style="color:#49AC84;">data science in Azure</a> and <a href="https://github.com/lucavh/scikit-learn-mooc" style="color:#49AC84;">machine learning with scikit-learn</a>.
+🌱 &nbsp;&nbsp;I’m currently expanding my knowledge on <a href="https://github.com/lucavh/my-notes/blob/main/azure/DP-100-azure-data-scientist-associate.md" style="color:#49AC84;">data science in Azure</a> and I recently completed this amazing <a href="https://github.com/lucavh/scikit-learn-mooc" style="color:#49AC84;">scikit-learn course</a>.
 
 💫 &nbsp;&nbsp;I'm passionate about the crossroads between artificial intelligence and design.
 
