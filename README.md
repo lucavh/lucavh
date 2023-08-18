@@ -1,22 +1,6 @@
 
 [![Social banner for lucavh](./assets/social-banner.png)](https://www.lucaverhees.nl)
 
-
-Hello! <br/> I’m Luca – a data enthusiast, crafting clarity and innovation through code and creativity.
-          </h1>
-          <p>
-            Through my work, I create meaningful impact by solving business challenges ​with end-to-end data science 
-            products. Currently, I'm a Data Scientist at <a href="https://www.ns.nl/" target="_blank">Nederlandse 
-              Spoorwegen</a>, the principal passenger railway operator in the Netherlands. I’m also a proud Ambassador 
-              for <a href="https://www.kickstartai.org/" target="_blank">Kickstart AI</a>, 
-              contributing to their mission of making the future of AI orange.
-          </p>
-          <p>
-            I have an academic background in Data Science and Applied Machine Learning. From a young age, my 
-            entrepreneurial spirit led me on a freelance journey, catalyzing my development into a multifaceted professional. 
-            As a natural chameleon, I effortlessly switch perspectives and I translate data complexity into narratives that 
-            resonate with people. 
-
 Hello! I’m Luca – a data enthusiast, crafting clarity and innovation through code and creativity.
 
 👩‍💻 &nbsp;&nbsp;Through my work, I create meaningful impact by solving business challenges ​with end-to-end data science products. Currently, I'm a Data Scientist at [Nederlandse Spoorwegen](https://www.ns.nl/), the principal passenger railway operator in the Netherlands. I’m also a proud Ambassador for [Kickstart AI](https://www.kickstartai.org/), contributing to their mission of making the future of AI orange.
