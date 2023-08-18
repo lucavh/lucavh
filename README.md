@@ -1,15 +1,31 @@
 
 [![Social banner for lucavh](./assets/social-banner.png)](https://www.lucaverhees.nl)
 
-Hi! I’m Luca Verhees, a creative data scientist/engineer with a multidisciplinary skill set who gets excited about applied machine learning and demand forecasting in particular.
 
-👩‍💻 &nbsp;&nbsp;Through my work, I create meaningful impact by solving business challenges with end-to-end data science products and taking business partners along on that journey. Currently, I'm working as a Data Scientist at [Nederlandse Spoorwegen](https://www.werkenbijns.nl/onze-verhalen/kickstart-ai), the principal passenger railway operator in the Netherlands.
+Hello! <br/> I’m Luca – a data enthusiast, crafting clarity and innovation through code and creativity.
+          </h1>
+          <p>
+            Through my work, I create meaningful impact by solving business challenges ​with end-to-end data science 
+            products. Currently, I'm a Data Scientist at <a href="https://www.ns.nl/" target="_blank">Nederlandse 
+              Spoorwegen</a>, the principal passenger railway operator in the Netherlands. I’m also a proud Ambassador 
+              for <a href="https://www.kickstartai.org/" target="_blank">Kickstart AI</a>, 
+              contributing to their mission of making the future of AI orange.
+          </p>
+          <p>
+            I have an academic background in Data Science and Applied Machine Learning. From a young age, my 
+            entrepreneurial spirit led me on a freelance journey, catalyzing my development into a multifaceted professional. 
+            As a natural chameleon, I effortlessly switch perspectives and I translate data complexity into narratives that 
+            resonate with people. 
 
-🌱 &nbsp;&nbsp;I’m currently expanding my knowledge on [Bayesian methods and probabilistic programming](https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/). I recently completed a linear algebra course based on [the book](https://math.mit.edu/~gs/learningfromdata/) and [lectures](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video_galleries/video-lectures/) by the amazing [Gilbert Strang](https://math.mit.edu/~gs/).
+Hello! I’m Luca – a data enthusiast, crafting clarity and innovation through code and creativity.
 
-💫 &nbsp;&nbsp;I have an entrepreneurial spirit, started freelancing as a 17 y/o. Over the years, I have developed a versatile skill set and gained experience across different roles and industries, both technical and business-oriented. I'm fascinated by the way people interact with technology and strive to make those interactions more intuitive and meaningful.
+👩‍💻 &nbsp;&nbsp;Through my work, I create meaningful impact by solving business challenges ​with end-to-end data science products. Currently, I'm a Data Scientist at [Nederlandse Spoorwegen](https://www.ns.nl/), the principal passenger railway operator in the Netherlands. I’m also a proud Ambassador for [Kickstart AI](https://www.kickstartai.org/), contributing to their mission of making the future of AI orange.
 
-💬 &nbsp;&nbsp;Ask me about MLops, time series forecasting, design and UX.
+🌱 &nbsp;&nbsp;I’m currently expanding my knowledge on [Bayesian methods and probabilistic programming](https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/). Furthermore, inspired by the [art of analog data visualisation](https://www.dear-data.com/theproject) and my love for knitting, I'm knitting my daily step counts into a blanket.
+
+💫 &nbsp;&nbsp;I have an academic background in Data Science and Applied Machine Learning. From a young age, my entrepreneurial spirit led me on a freelance journey, catalyzing my development into a multifaceted professional. I'm fascinated by the way people interact with technology and strive to make those interactions more intuitive and meaningful. As a natural chameleon, I effortlessly switch perspectives and I translate data complexity into narratives that resonate with people.
+
+💬 &nbsp;&nbsp;Ask me about demand forecasting, data storytelling, and data science for strategic decision making.
 
 ⚒️ &nbsp;&nbsp;Some of the tools & technologies I work with on a day-to-day basis:
 
