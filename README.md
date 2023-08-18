@@ -7,7 +7,7 @@ Hello! I’m Luca – a data enthusiast, crafting clarity and innovation through
 
 🌱 &nbsp;&nbsp;I’m currently expanding my knowledge on [Bayesian methods and probabilistic programming](https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/). Furthermore, inspired by the [art of analog data visualisation](https://www.dear-data.com/theproject) and my love for knitting, I'm knitting my daily step counts into a blanket.
 
-💫 &nbsp;&nbsp;I have an academic background in Data Science and Applied Machine Learning. From a young age, my entrepreneurial spirit led me on a freelance journey, catalyzing my development into a multifaceted professional. I'm fascinated by the way people interact with technology and strive to make those interactions more intuitive and meaningful. As a natural chameleon, I effortlessly switch perspectives and I translate data complexity into narratives that resonate with people.
+💫 &nbsp;&nbsp;I have an academic background in Data Science and Applied Machine Learning. From a young age, my entrepreneurial spirit led me on a freelance journey, catalyzing my development into a multifaceted professional. As a result, I effortlessly switch perspectives and am able to translate data complexity into narratives that resonate with people. I'm fascinated by the way people interact with technology and strive to make those interactions more intuitive and meaningful. 
 
 💬 &nbsp;&nbsp;Ask me about demand forecasting, data storytelling, and data science for strategic decision making.
 
