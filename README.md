@@ -3,13 +3,13 @@
 
 Hello! I’m Luca – a data enthusiast, crafting clarity and innovation through code and creativity.
 
-👩‍💻 &nbsp;&nbsp;Through my work, I create meaningful impact by solving business challenges ​with data insights and statistical modelling. Currently, I'm a Data Scientist at [Nederlandse Spoorwegen](https://www.ns.nl/), the principal passenger railway operator in the Netherlands. I’m also a proud Ambassador for [Kickstart AI](https://www.kickstartai.org/), contributing to their mission of making the future of AI orange.
+👩‍💻 &nbsp;&nbsp;Through my work, I create meaningful impact by solving business challenges ​with data insights and statistical modelling. Currently, I'm a Data Scientist at [Nederlandse Spoorwegen](https://www.ns.nl/), the principal passenger railway operator in the Netherlands. I’m also a proud Ambassador for [Kickstart AI](https://www.kickstartai.org/), contributing to their mission to accelerate the adoption of AI in the Netherlands.
 
-🌱 &nbsp;&nbsp;I’m currently expanding my knowledge on [Bayesian methods and probabilistic programming](https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/). Furthermore, inspired by the [art of analog data visualisation](https://www.dear-data.com/theproject) and my love for knitting, I'm knitting my daily step counts into a blanket.
+🌱 &nbsp;&nbsp;I’m currently expanding my knowledge on [Bayesian methods and probabilistic programming](https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/). Furthermore, inspired by the [art of analog data visualisation](https://www.dear-data.com/theproject) and my love for knitting, I've recently completed a pillow that visualises my daily step counts of 2023!
 
 💫 &nbsp;&nbsp;I have an academic background in Data Science and Applied Machine Learning. From a young age, my entrepreneurial spirit led me on a freelance journey, catalyzing my development into a multifaceted professional. As a result, I effortlessly switch perspectives and am able to translate data complexity and statistical analyses into narratives that resonate with people. I'm fascinated by the way people interact with technology and strive to make those interactions more intuitive and meaningful.
 
-💬 &nbsp;&nbsp;Ask me about demand forecasting, data storytelling, and data science for strategic decision-making.
+💬 &nbsp;&nbsp;Ask me about analytics translating, data storytelling, and data science for strategic decision-making.
 
 ⚒️ &nbsp;&nbsp;Some of the tools & technologies I work with on a day-to-day basis:
 
