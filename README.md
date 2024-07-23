@@ -3,9 +3,9 @@
 
 Hello! I’m Luca – a data enthusiast, crafting clarity and innovation through code and creativity.
 
-👩‍💻 &nbsp;&nbsp;Through my work, I create meaningful impact by solving business challenges ​with data insights and statistical modelling. Currently, I'm a Data Scientist at [Nederlandse Spoorwegen](https://www.ns.nl/), the principal passenger railway operator in the Netherlands. I’m also a proud Ambassador for [Kickstart AI](https://www.kickstartai.org/), contributing to their mission to accelerate the adoption of AI in the Netherlands.
+👩‍💻 &nbsp;&nbsp;Through my work, I create meaningful impact by solving business challenges ​with data insights and statistical modelling. Currently, I'm a Data Scientist at [Nederlandse Spoorwegen](https://www.ns.nl/), the principal passenger railway operator in the Netherlands. I’m also a proud Ambassador for [Kickstart AI](https://www.kickstartai.org/), contributing to their mission to accelerate the adoption of AI in the Netherlands. 
 
-🌱 &nbsp;&nbsp;I’m currently expanding my knowledge on [Bayesian methods and probabilistic programming](https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/). Furthermore, inspired by the [art of analog data visualisation](https://www.dear-data.com/theproject) and my love for knitting, I've recently completed a pillow that visualises my daily step counts of 2023!
+🌱 &nbsp;&nbsp;My passion isn't limited to my own work; I mentor data enthusiasts to help them flourish professionally and promote data literacy to foster an innovative, data-driven environment. I am actively involved in the [Woman in AI mentorship program](https://womeninai.nl/wai-mentor/) where I guide young data enthusiasts through their early careers in data science. 
 
 💫 &nbsp;&nbsp;I have an academic background in Data Science and Applied Machine Learning. From a young age, my entrepreneurial spirit led me on a freelance journey, catalyzing my development into a multifaceted professional. As a result, I effortlessly switch perspectives and am able to translate data complexity and statistical analyses into narratives that resonate with people. I'm fascinated by the way people interact with technology and strive to make those interactions more intuitive and meaningful.
 
