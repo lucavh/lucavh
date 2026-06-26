@@ -3,13 +3,11 @@
 
 Hello! I’m Luca – a data enthusiast, crafting clarity and innovation through code and creativity.
 
-👩‍💻 &nbsp;&nbsp;Through my work, I create meaningful impact by solving business challenges ​with data insights and statistical modelling. Currently, I'm a Data Scientist at [Nederlandse Spoorwegen](https://www.ns.nl/), the principal passenger railway operator in the Netherlands. I’m also a proud Ambassador for [Kickstart AI](https://www.kickstartai.org/), contributing to their mission to accelerate the adoption of AI in the Netherlands. 
+👩‍💻 &nbsp;&nbsp;As a Senior Data Scientist and Analytics Translator at NS (Dutch Railways), I transform complex data and (Gen)AI into tangible operational impact. We build products directly alongside operational teams, ensuring resources are utilized exactly when and where our passengers and operations need them most. The synergy between people and data fascinates me, especially where numbers meet a dynamic (and often unpredictable) reality.
 
-🌱 &nbsp;&nbsp;My passion isn't limited to my own work; I mentor data enthusiasts to help them flourish professionally and promote data literacy to foster an innovative, data-driven environment. I am actively involved in the [Woman in AI mentorship program](https://womeninai.nl/wai-mentor/) where I guide young data enthusiasts through their early careers in data science. 
+🌱 &nbsp;&nbsp;With a cum laude MSc in Data Science and an entrepreneurial foundation of 30+ freelance projects, I speak the language of both tech and business. As a mentor for young talent and a data literacy trainer, I gain immense energy from helping others grow.
 
-💫 &nbsp;&nbsp;I have an academic background in Data Science and Applied Machine Learning. From a young age, my entrepreneurial spirit led me on a freelance journey, catalyzing my development into a multifaceted professional. As a result, I effortlessly switch perspectives and am able to translate data complexity and statistical analyses into narratives that resonate with people. I'm fascinated by the way people interact with technology and strive to make those interactions more intuitive and meaningful.
-
-💬 &nbsp;&nbsp;Ask me about analytics translating, data storytelling, and data science for strategic decision-making.
+💬 &nbsp;&nbsp;My goal? To build an inclusive culture where data literacy thrives and we fully dare to experiment, not just through innovative AI pilots, but also on a personal level by seeking out exciting challenges and giving talent the space to flourish. Reading tip: [Designing Your Life by Bill Burnett & Dave Evans](https://www.designingyour.life/).
 
 ⚒️ &nbsp;&nbsp;Some of the tools & technologies I work with on a day-to-day basis:
 
